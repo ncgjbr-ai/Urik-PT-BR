@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="ime_name" translatable="false">Urik</string>
+    <string name="ime_label">Teclado Urik</string>
+    <string name="ime_description">Escrita por deslizamento, corretor ortográfico e compatibilidade multilíngua sem comprometer a sua privacidade. Sem telemetria. Sem colher dados. Tudo permanece no seu dispositivo.</string>
+
+    <!-- Settings -->
+    <string name="enable_keyboard_title">Ativar</string>
+    <string name="open_settings">Abrir configurações</string>
+    <string name="error_opening_settings">Não é possível abrir as configurações</string>
+
+    <!-- Settings Activity -->
+    <string name="settings_title">Configurações do teclado</string>
+    <string name="about_title">Sobre</string>
+    <string name="about_button">Sobre</string>
+    <string name="about_version">Versão</string>
+    <string name="about_copyright">Copyright © 2025 Urik Development</string>
+    <string name="about_license">Licença: GNU GPL v3.0</string>
+    <string name="about_source_code">Código fonte</string>
+    <string name="about_release_notes">Notas de lançamento</string>
+    <string name="about_report_bug">Relatar um bug</string>
+    <string name="about_privacy_policy">Política de privacidade</string>
+    <string name="about_support">Apoiar o desenvolvimento</string>
+    <string name="autocorrect_settings_title">Ajustes de autocorreção</string>
+    <string name="autocorrect_settings_description">Ortografia e sugestões</string>
+    <string name="language_settings_title">Configurações de idioma</string>
+    <string name="language_settings_description">Escolha os idiomas do teclado</string>
+    <string name="typing_settings_title">Configurações do comportamento de escrita</string>
+    <string name="typing_settings_description">Pontuação, feedback háptico, etc.</string>
+    <string name="layout_settings_title">Layout e entrada</string>
+    <string name="layout_settings_description">Linha numérica, tamanho da barra de espaço</string>
+    <string name="appearance_settings_title">Aparência</string>
+    <string name="appearance_settings_description">Tema, tamanho</string>
+    <string name="privacy_settings_title">Privacidade e dados</string>
+    <string name="privacy_settings_description">Apagar dados, redefinir configurações</string>
+    <string name="licenses_title">Licenças de código aberto</string>
+    <string name="licenses_description">Ver licenças de bibliotecas de terceiros</string>
